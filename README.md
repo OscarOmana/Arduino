@@ -18,3 +18,6 @@ El material usado para este proyecto es el siguiente:
 
 *Jumpers 
 
+## Paso 1
+
+El primer paso será instalar Windows 10 iot core en nuestra raspberry es el sistema operativo diseñado para crear soluciones iot compatible desde la raspberry 2, 3 hasta las Minnowboard Max
