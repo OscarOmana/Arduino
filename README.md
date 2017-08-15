@@ -21,3 +21,9 @@ El material usado para este proyecto es el siguiente:
 ## Paso 1
 
 El primer paso será instalar Windows 10 iot core en nuestra raspberry es el sistema operativo diseñado para crear soluciones iot compatible desde la raspberry 2, 3 hasta las Minnowboard Max
+
+
+ahoa pasamos con la aplicacion de Ardino 
+
+
+despues la de visual studio
