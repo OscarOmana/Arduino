@@ -23,7 +23,11 @@ El material usado para este proyecto es el siguiente:
 El primer paso será instalar Windows 10 iot core en nuestra raspberry es el sistema operativo diseñado para crear soluciones iot compatible desde la raspberry 2, 3 hasta las Minnowboard Max
 
 
-ahoa pasamos con la aplicacion de Ardino 
+Ahora pasamos con la aplicacion de Ardino, creamos un proyecto nuevo
+
+y lo primero que necesitaremos sera agregar la libreria Wire que esta incluida por defalut en el IDE por lo tanto solo tendremos que escribir lo siguiente.
+
+#include<Wire.h>
 
 
 despues la de visual studio
